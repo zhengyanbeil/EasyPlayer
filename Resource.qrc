@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="icon">D:/Foobar2000/icons/cda.ico</file>
+    </qresource>
+</RCC>
